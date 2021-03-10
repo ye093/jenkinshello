@@ -7,6 +7,6 @@ public class AppTest {
 
     @Test
     public void testTrue() {
-        Assert.assertTrue(3 == 30 / 10);
+        Assert.assertTrue(30 == 30 / 10);
     }
 }
