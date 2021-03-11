@@ -1,2 +1,2 @@
-src/main/java/cn/yejy/config/ApplicationConfig.java merge=ours
+/src/main/java/cn/yejy/config/ApplicationConfig.java merge=ours
 Jenkinsfile merge=ours
