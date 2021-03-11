@@ -10,5 +10,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println(ApplicationConfig.HOST);
         System.out.println(ApplicationConfig.HOST_NAME);
+        System.out.println("这里是分支修改");
     }
 }
