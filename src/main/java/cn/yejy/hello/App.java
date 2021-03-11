@@ -1,5 +1,8 @@
 package cn.yejy.hello;
 
+import cn.yejy.onestore.User;
+import cn.yejy.onestore.UserRepository;
+
 public class App {
 
     public static void main(String[] args) {
@@ -8,5 +11,9 @@ public class App {
         System.out.println("2222");
         System.out.println("4444");
         System.out.println("555");
+
+        User user = new User("叶", 18);
+
+        System.out.printf("store result %b%n", UserRepository.save(user));
     }
 }
