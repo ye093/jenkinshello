@@ -6,5 +6,5 @@ package cn.yejy.config;
  */
 public class ApplicationConfig {
     public static final String HOST = "localhost";
-    public static final String HOST_NAME = "测试环境32323232232";
+    public static final String HOST_NAME = "测试环境";
 }
