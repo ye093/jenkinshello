@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Build") {
             steps {
-                echo '输出为测试环境'
+                echo '输出为测试环境:8080'
             }
         }
     }

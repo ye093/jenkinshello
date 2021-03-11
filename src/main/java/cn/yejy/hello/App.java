@@ -11,5 +11,6 @@ public class App {
         System.out.println(ApplicationConfig.HOST);
         System.out.println(ApplicationConfig.HOST_NAME);
         System.out.println("这里是分支修改");
+        System.out.println("分支修改2");
     }
 }
