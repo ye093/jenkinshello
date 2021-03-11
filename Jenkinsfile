@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Build") {
             steps {
-                echo 'Hello world!!!!!test test'
+                echo '这里为正式环境'
             }
         }
     }
