@@ -13,6 +13,8 @@ public class App {
         System.out.println("555");
         System.out.println("666");
 
+        System.out.println("User start saving...");
+
         User user = new User("叶", 18);
 
         System.out.printf("store result %b%n", UserRepository.save(user));

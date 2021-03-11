@@ -7,6 +7,7 @@ public class UserRepository {
 
     public static boolean save(User user) {
         System.out.println(user);
+        System.out.println("保存成功");
         return true;
     }
 }
