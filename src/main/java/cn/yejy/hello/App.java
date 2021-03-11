@@ -11,6 +11,7 @@ public class App {
         System.out.println("2222");
         System.out.println("4444");
         System.out.println("555");
+        System.out.println("666");
 
         User user = new User("叶", 18);
 
